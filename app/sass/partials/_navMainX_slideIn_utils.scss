@@ -1,0 +1,14 @@
+span.conditionalBRx99 {
+  display: inline;
+
+  @include breakpoint(480px){
+    display: none;
+  }
+}
+
+
+.contRofl_clr {
+    width: 100%;
+    float: left;
+    @include clearfix;
+}

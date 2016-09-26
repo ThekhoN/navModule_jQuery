@@ -1,0 +1,15 @@
+@import "susy";
+@import "breakpoint";
+@import "bourbon/bourbon";
+@import "scut";
+
+/// +++++ vars universal
+@import 'partials/vars';
+
+/// +++++ navMainX
+@import 'partials/navMainX';
+
+/// +++++ navMainX_slideIn
+@import 'partials/navMainX_slideIn_utils';
+@import 'partials/navMainX_slideIn';
+@import 'partials/navMainX_slideIn_items';

@@ -1,0 +1,50 @@
+/*  presentational style do not include in production: ;*/
+
+* {
+  margin: 0;
+  padding: 0;
+}
+
+#mainWrapperX_newX999 {
+  max-width:1920px;
+  margin: 0 auto;
+}
+
+.scrollToSectionX {
+  height: 100vh;
+}
+
+.blue {
+  background: blue;
+}
+
+.orange {
+  background: orange;
+}
+
+.green {
+  background: green;
+}
+
+.purple {
+  background: purple;
+}
+
+.scrollToSectionX {
+  color: #f2f2f2;
+  padding: 1em;
+  text-align: center;
+  line-height: 1.6;
+  box-sizing: border-box;
+}
+
+.headerBannerX {
+  width: 100%;
+  float: left;
+}
+
+.headerBannerX img {
+  width: 100%;
+  height: auto;
+  float: left;
+}
